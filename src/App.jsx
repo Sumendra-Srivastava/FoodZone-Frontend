@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import styled from "styled-Components";
+import styled from "styled-components";
 import SearchResult from "./components/SearchResults/SearchResult";
 
 export const BASE_URL="https://foodzone-backend-i1fq.onrender.com";
